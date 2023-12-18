@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cstdio": "cpp",
+        "stdio.h": "c",
+        "stdarg.h": "c"
+    }
+}
